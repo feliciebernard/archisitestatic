@@ -1,0 +1,9 @@
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+.main-link {
+  font-size: medium;
+  color: #363636;
+}
