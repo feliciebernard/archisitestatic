@@ -7,3 +7,11 @@ a {
   font-size: medium;
   color: #363636;
 }
+
+.place-margin {
+  margin-bottom: 0em !important;
+}
+.place-paragraph {
+  font-size: medium;
+  color: #363636;
+}
